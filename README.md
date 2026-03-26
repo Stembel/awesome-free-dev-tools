@@ -227,14 +227,14 @@
 
 | Tool | Description | Client-Side |
 |------|-------------|:-----------:|
-| [CalcKit Mortgage Calculator](https://stembel.github.io/calckit/calc/mortgage.html) | Monthly payment + amortization schedule | Yes |
-| [CalcKit Compound Interest](https://stembel.github.io/calckit/calc/compound.html) | Compound interest with charts | Yes |
-| [CalcKit Salary Calculator](https://stembel.github.io/calckit/calc/salary.html) | Annual/monthly/hourly conversion | Yes |
-| [CalcKit ROI Calculator](https://stembel.github.io/calckit/calc/roi.html) | Return on investment calculator | Yes |
-| [CalcKit Loan Calculator](https://stembel.github.io/calckit/calc/loan.html) | Auto/personal loan payments | Yes |
-| [CalcKit BMI Calculator](https://stembel.github.io/calckit/calc/bmi.html) | Body Mass Index with WHO scale | Yes |
-| [CalcKit Percentage](https://stembel.github.io/calckit/calc/percentage.html) | Percentage calculations | Yes |
-| [CalcKit Tip Calculator](https://stembel.github.io/calckit/calc/tip.html) | Tip + bill splitting | Yes |
+| [ZeroKit Mortgage Calculator](https://zerokit.dev/tools/mortgage.html) | Monthly payment + amortization schedule | Yes |
+| [ZeroKit Compound Interest](https://zerokit.dev/tools/compound.html) | Compound interest with charts | Yes |
+| [ZeroKit Salary Calculator](https://zerokit.dev/tools/salary.html) | Annual/monthly/hourly conversion | Yes |
+| [ZeroKit ROI Calculator](https://zerokit.dev/tools/roi.html) | Return on investment calculator | Yes |
+| [ZeroKit Loan Calculator](https://zerokit.dev/tools/loan.html) | Auto/personal loan payments | Yes |
+| [ZeroKit BMI Calculator](https://zerokit.dev/tools/bmi.html) | Body Mass Index with WHO scale | Yes |
+| [ZeroKit Percentage](https://zerokit.dev/tools/percentage.html) | Percentage calculations | Yes |
+| [ZeroKit Tip Calculator](https://zerokit.dev/tools/tip.html) | Tip + bill splitting | Yes |
 
 ## Monitoring & DevOps
 
@@ -249,7 +249,7 @@
 | Tool | Description |
 |------|-------------|
 | [ZeroKit.dev](https://zerokit.dev/) | 117 free developer tools in one place |
-| [CalcKit](https://stembel.github.io/calckit/) | Free online calculators |
+| [ZeroKit Finance Calculators](https://zerokit.dev/) | Free online calculators (mortgage, ROI, salary, and more) |
 | [DevDocs](https://devdocs.io/) | Unified API documentation |
 | [Can I Use](https://caniuse.com/) | Browser support tables |
 | [Bundlephobia](https://bundlephobia.com/) | npm package size checker |
