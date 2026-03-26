@@ -236,11 +236,19 @@
 | [CalcKit Percentage](https://stembel.github.io/calckit/calc/percentage.html) | Percentage calculations | Yes |
 | [CalcKit Tip Calculator](https://stembel.github.io/calckit/calc/tip.html) | Tip + bill splitting | Yes |
 
+## Monitoring & DevOps
+
+| Tool | Description | Client-Side |
+|------|-------------|:-----------:|
+| [UptimePulse](https://65-109-129-230.sslip.io/pulse/) | Free website uptime monitoring with status pages and SVG badges | No |
+| [UptimeRobot](https://uptimerobot.com/) | Website monitoring with 5-minute checks | No |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Self-hosted monitoring tool | No |
+
 ## General Purpose
 
 | Tool | Description |
 |------|-------------|
-| [ZeroKit.dev](https://zerokit.dev/) | 105+ free developer tools in one place |
+| [ZeroKit.dev](https://zerokit.dev/) | 117 free developer tools in one place |
 | [CalcKit](https://stembel.github.io/calckit/) | Free online calculators |
 | [DevDocs](https://devdocs.io/) | Unified API documentation |
 | [Can I Use](https://caniuse.com/) | Browser support tables |
