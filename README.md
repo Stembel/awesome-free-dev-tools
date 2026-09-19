@@ -243,6 +243,8 @@
 | [UptimePulse](https://65-109-129-230.sslip.io/pulse/) | Free website uptime monitoring with status pages and SVG badges | No |
 | [UptimeRobot](https://uptimerobot.com/) | Website monitoring with 5-minute checks | No |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Self-hosted monitoring tool | No |
+| [NextReset](https://nextreset.ai/) | Observed Codex reset history, official incident sources, and a browser-local personal timer | Partly |
+
 
 ## General Purpose
 
