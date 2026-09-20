@@ -160,6 +160,7 @@
 | [ZeroKit IP Info](https://zerokit.dev/tools/ipinfo.html) | Your public IP, browser, OS info | Yes |
 | [ZeroKit Subnet Calculator](https://zerokit.dev/tools/subnet.html) | Calculate subnet ranges | Yes |
 | [ZeroKit Network Ports](https://zerokit.dev/tools/ports.html) | 108 common port reference | Yes |
+| [DNS Notify Scanner](https://dnsnotify.com/dns-scanner/) | Scan authoritative DNS records, nameservers, TLS certificates, and domain registration without signup | No |
 | [MXToolbox](https://mxtoolbox.com/) | DNS, MX, and blacklist lookups | No |
 | [SSL Labs](https://www.ssllabs.com/ssltest/) | Deep SSL/TLS analysis | No |
 | [BuiltWith](https://builtwith.com/) | Technology profiler | No |
