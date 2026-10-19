@@ -41,6 +41,7 @@
 | [JSONLint](https://jsonlint.com/) | JSON validator and formatter | Yes |
 | [JSON Editor Online](https://jsoneditoronline.org/) | View, edit, format, and validate JSON | Yes |
 | [jq play](https://jqplay.org/) | A playground for jq, the command-line JSON processor | No |
+| [Glim](https://github.com/NeoPanic/Glim) | MIT-licensed macOS app for local JSON tree, CSV table and read-only SQLite inspection; no account required | Yes (desktop) |
 
 ## Encoders & Decoders
 
