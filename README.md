@@ -128,6 +128,7 @@
 | [ZeroKit Image to Base64](https://zerokit.dev/tools/imagebase64.html) | Convert images to Base64 data URIs | Yes |
 | [Squoosh](https://squoosh.app/) | Image compression by Google | Yes |
 | [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVG optimizer GUI | Yes |
+| [RadarMakers Image Optimizer](https://radarmakers.com/tools/image-optimizer) | Compress PNG, JPEG and WebP toward a target file size | Yes |
 | [TinyPNG](https://tinypng.com/) | PNG/JPEG compression | No |
 
 ## Converters
