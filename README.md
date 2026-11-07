@@ -120,6 +120,7 @@
 
 | Tool | Description | Client-Side |
 |------|-------------|:-----------:|
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Convert local images to ASCII text in the browser without an account | Yes (local images) |
 | [ZeroKit Image Compressor](https://zerokit.dev/tools/imagecompress.html) | Compress images in the browser | Yes |
 | [ZeroKit SVG Optimizer](https://zerokit.dev/tools/svgoptimizer.html) | Optimize and minify SVG files | Yes |
 | [ZeroKit Placeholder Image](https://zerokit.dev/tools/placeholder.html) | Generate placeholder images | Yes |
