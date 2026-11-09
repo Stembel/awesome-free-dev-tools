@@ -29,6 +29,7 @@
 
 | Tool | Description | Client-Side |
 |------|-------------|:-----------:|
+| [PageUtil CSV Fixer](https://pageutil.com/csv-fixer/) | Inspect CSV structure and encoding, review text repairs, and export CSV or Excel | Yes |
 | [ZeroKit JSON Formatter](https://zerokit.dev/tools/json.html) | Format, validate, and minify JSON with syntax error detection | Yes |
 | [ZeroKit JSONPath](https://zerokit.dev/tools/jsonpath.html) | Evaluate JSONPath expressions against JSON data | Yes |
 | [ZeroKit JSON Diff](https://zerokit.dev/tools/jsondiff.html) | Compare two JSON documents side by side | Yes |
