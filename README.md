@@ -243,6 +243,7 @@
 | [UptimePulse](https://65-109-129-230.sslip.io/pulse/) | Free website uptime monitoring with status pages and SVG badges | No |
 | [UptimeRobot](https://uptimerobot.com/) | Website monitoring with 5-minute checks | No |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Self-hosted monitoring tool | No |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Self-hosted website uptime and response-time monitoring with TLS and domain expiry checks and public status pages | No |
 
 ## General Purpose
 
